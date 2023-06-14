@@ -1,6 +1,3 @@
-**Support me here if you liked this!**
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/AtharvaShah) 
-
 ## About VocabCLI 📚
 
 ![image](https://user-images.githubusercontent.com/68660002/207532026-a82ce199-51b8-4d11-8efd-01e37ec5564f.png)
